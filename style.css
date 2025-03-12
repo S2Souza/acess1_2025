@@ -1,0 +1,38 @@
+body { background-color: rgb(219, 219, 219);}
+h2 { font-family: "Emblema One", system-ui;
+	font-weight: 400px;
+	font-size: 60px;
+	font-style: normal;
+margin-top: 10px;
+text-align: center;
+color: midnightblue;}
+
+	h1 { font-family: "Bebas Neue", sans-serif;
+		font-weight: 400;
+		font-style: normal;
+	font-size: 100px;
+margin-bottom: 5px;
+ #a1 { text-align: center;
+	display: block;}
+color: rgb(240, 108, 0);}
+
+.text {  font-family: "Bebas Neue", sans-serif;
+	font-weight: 400;
+	font-size: 50px;
+	font-style: normal;
+	text-align: center;
+	color: midnightblue;}
+	header { background-color: midnightblue;
+		font-family: "Alfa Slab One", serif;
+		font-weight: 400;
+		font-size: 130px;
+		text-align: center;
+		color: white;
+		font-style: normal;
+	padding-top: 20px;
+padding-bottom: 20px;
+margin-left: 100px;
+margin-right: 100px;
+border-width: 20px;
+border-style: groove;
+border-color: midnightblue;}
